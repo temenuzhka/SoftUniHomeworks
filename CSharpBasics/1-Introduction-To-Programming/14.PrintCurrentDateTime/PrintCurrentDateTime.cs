@@ -8,6 +8,7 @@
 
     internal class PrintCurrentDateTime
     {
+        // 14.Create a console application that prints the current date and time. Find in Internet how.
         static void Main()
         {
             Console.WriteLine(DateTime.Now);

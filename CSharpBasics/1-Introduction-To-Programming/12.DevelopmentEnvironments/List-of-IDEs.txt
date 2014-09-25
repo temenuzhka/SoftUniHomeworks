@@ -1,0 +1,13 @@
+﻿Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
+Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+Visual Studio: Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, web applications and web services.
+Built-in languages include C, C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#), and F# (as of Visual Studio 2010).
+
+Eclipse: Eclipse is written mostly in Java and it is used to develop Java aplications. It has open sourse.
+
+NetBeans: NetBeans is IDE for developing mostly in Java but also in PHP, C, C++ and HTML.
+
+JDeveloper: Jdeveloper is a freeware IDE supplied by Oracle Corporation. It offers features for development in Java, XML, SQL and PL/SQL, HTML, JavaScript, BPEL and PHP. 
+
+

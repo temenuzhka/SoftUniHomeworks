@@ -1,0 +1,9 @@
+﻿Describe the difference between C# and .NET Framework in 2-3 sentences.
+Write your description in a text file called “csharp-and-dot-net-framework.txt”. Use English.
+
+C# is a modern object-oriented copmuter language.  It was developed by Microsoft within its .NET Framework. C# runs in .NET environment.
+
+.NET Framework is a software framework developed by Microsoft that helps developing software in Windows environment using the programming language C#
+and some other languages.
+
+The main defference is that C# is a programming language and .NET is the framework that the C# language is built on.
